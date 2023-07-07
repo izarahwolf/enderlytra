@@ -1,0 +1,18 @@
+:root {
+    --near-black: #0a080c;
+    --dark-grey: #141414;
+    --grey: #aaaaaa;
+
+    --light-magenta: #de7afa;
+    --ender-magenta: #c800fa;
+    --void-pale: #5c4553;
+    --void-purple: #1a1321;
+
+    --epearl-dark: #032620;
+    --epearl-deep: #0b4c41;
+    --epearl-moderate: #258273;
+    --epearl-bright: #2ccaaf;
+    --epearl-light: #8af1df;
+
+    --end-yellow: #cfcf97;
+}
