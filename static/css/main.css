@@ -1,0 +1,33 @@
+/* Primary Color Palette */
+/* dark grey #141414
+    for background, secondary/reading text */
+/* light purple #de7afa
+    for buttons, header text */
+/* ender purple #c800fa
+    accent color */
+/* grey #aaaaaa
+    plain text on dark background, accent */
+
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+    background-color: #141414;
+    background-image: linear-gradient(to bottom right, #141414, #141414, #c800fa, #141414, #141414);
+    color: #de7afa;
+
+    /* grid layout for sections */
+    display: grid;
+    grid-template-columns: 14% auto;
+    grid-template-rows: 1fr 5fr; /* fr = fraction */
+    grid-template-areas: "header header" "navs main";
+}
+body:before {
+    content: "";
+    background: linear-gradient(to right, #141414, transparent, #141414);
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
