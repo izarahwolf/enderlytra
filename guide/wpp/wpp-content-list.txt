@@ -1,0 +1,17 @@
+piscator (fishing)
+
+naturist (farming)
+
+geologist (mining)
+
+forester (woocutting)
+
+sorcerer (brewing & enchanting)
+
+predator (hunting/killing)
+
+traveler (exploring)
+
+bulider (building)
+
+economist (all custom economy)

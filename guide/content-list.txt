@@ -1,0 +1,82 @@
+getting started - starter kit, ...
+
+ranks - in-game
+ranks - support/subscription
+
+player deaths / reaper
+
+(economy)
+jobs
+quests
+clue scrolls equivalent
+server custom "currencies" like game tickets
+auction house
+lottery? 
+/pay
+trading ?
+shop and selling
+player chest shops/equivalent
+chat games?
+bank
+
+trading cards
+OneBlock
+Birthdays
+Pets / Ridable animals
+Music
+Art
+Theatre/Acting
+Minecarts
+Other cosmetics
+* particles
+* balloons?
+* minis?
+* chat icons/badges
+* glowing?
+* disguises
+nicks/colored nicks
+
+voting points (equivalent)
+vote party
+
+fly time / temp fly?
+
+
+Chat Features & Social commands
+* displaying emojis??
+chunk hoppers? / upgradable hoppers?
+hoarder equivalent...
+black market?? or something similar...
+
+player warps / server warps
+
+player claiming/protections / grouping
+friends/party?/posse
+
+single-use plugins
+* armored elytra
+* invisible item frame (rank perk!!)
+* withdraw xp 
+* teleporting tpa + invincibility??
+* chest lock
+* elevators?
+* ignoring
+
+custom crafting recipes?
+
+worlds
+
+extra storage copycat?
+player vaults or expanded containers
+
+DISCORD
+suggesting
+bug reporting
+player reporting
+tickets
+disputes and appeals
+general feedback
+advertising
+wiki forum
+
+staff guidelines and commands --> usr/pwd protected or discord linked if I'm smart enough
